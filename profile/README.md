@@ -1,7 +1,6 @@
 <p align="center">
   <img align="center" width="400" src="/profile/img/Logo Toekangku FIX.png" />
 </p>
-<h1 align="center">ToekangKu</h1>
 <h2 align="center">Job Services Recommendation for User</h2>
 
 <h3 align="center">Bangkit 2023 Capstone Team: CH2-PS345</h3>
