@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" width="400" src="/profile/img/landscape-01-01_small.png" />
+  <img align="center" width="400" src="/profile/img/Logo Toekangku FIX.png" />
 </p>
 <h1 align="center">ToekangKu</h1>
 <h2 align="center">Job Services Recommendation for User</h2>
